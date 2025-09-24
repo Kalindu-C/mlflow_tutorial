@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/524117993370872199/d4f4c89ae03549ad949b95b12f122494/artifacts
+end_time: 1758691831599
+entry_point_name: ''
+experiment_id: '524117993370872199'
+lifecycle_stage: active
+run_id: d4f4c89ae03549ad949b95b12f122494
+run_name: caring-mink-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758691823241
+status: 3
+tags: []
+user_id: Dell

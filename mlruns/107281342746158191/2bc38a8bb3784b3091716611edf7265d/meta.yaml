@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/107281342746158191/2bc38a8bb3784b3091716611edf7265d/artifacts
+end_time: 1758692081439
+entry_point_name: ''
+experiment_id: '107281342746158191'
+lifecycle_stage: active
+run_id: 2bc38a8bb3784b3091716611edf7265d
+run_name: apples_rf_test
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758692070808
+status: 3
+tags: []
+user_id: Dell

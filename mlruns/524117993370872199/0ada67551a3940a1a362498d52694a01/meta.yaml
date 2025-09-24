@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/524117993370872199/0ada67551a3940a1a362498d52694a01/artifacts
+end_time: 1758689363577
+entry_point_name: ''
+experiment_id: '524117993370872199'
+lifecycle_stage: active
+run_id: 0ada67551a3940a1a362498d52694a01
+run_name: clumsy-goat-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758689346129
+status: 3
+tags: []
+user_id: Dell
