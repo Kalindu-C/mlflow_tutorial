@@ -1,6 +1,8 @@
 artifact_location: mlflow-artifacts:/524117993370872199
 creation_time: 1758689022147
 experiment_id: '524117993370872199'
-last_update_time: 1758689022147
-lifecycle_stage: active
+last_update_time: 1759728349437
+lifecycle_stage: deleted
 name: First Experiment
+tags:
+  mlflow.experimentKind: custom_model_development

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/524117993370872199/d4f4c89ae03549ad949b95b12f122494/artifacts
+deleted_time: 1759728349437
 end_time: 1758691831599
 entry_point_name: ''
 experiment_id: '524117993370872199'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d4f4c89ae03549ad949b95b12f122494
 run_name: caring-mink-140
 source_name: ''
